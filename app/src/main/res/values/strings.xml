@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string-array name="values">
+    <item>operators</item>
+    <item>Areas</item>
+    <item>Streets</item>
+
+</string-array>
+</resources>
